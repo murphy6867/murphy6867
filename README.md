@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @murphy6867
-- 👀 I’m interested in ... backend developer.
-- 🌱 I’m currently learning ... Python, HTML, CSS, JavaScript
+- 👀 I’m interested in ... Data Scientis, Machine Learning Engineer.
+- 🌱 I’m currently learning ... Python, C, C++, Java, R, SQL, OOP, Scala
 - 💞️ I’m looking to collaborate on ... Facebook
 - 📫 How to reach me ... facebook : /murphy6867
 
